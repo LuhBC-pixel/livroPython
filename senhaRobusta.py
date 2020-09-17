@@ -1,5 +1,6 @@
 #! python3
-# Detecção de senhas robustas - detecta se a senha é robusta ou não
+# senhaRobusta.py - Detecção de senhas robustas - detecta se a senha é robusta ou não
+
 import pyperclip, re
 
 # senha robusta deve ter pelo menos 8 caracteres
